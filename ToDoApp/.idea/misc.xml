@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/drawable-v24/ic_baseline_note_add_24.xml" value="0.1" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/drawable/custom_selector.xml" value="0.1135" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/drawable/custome_shape.xml" value="0.1135" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/drawable/items_backgrund.xml" value="0.1265" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/layout/fragment_add.xml" value="0.22" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/layout/fragment_list.xml" value="0.24375" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/layout/fragment_update.xml" value="0.1" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/layout/row_item.xml" value="0.42533081285444235" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/menu-v26/list_fragment_menu.xml" value="0.24375" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/menu/add_manu_fragment.xml" value="0.24375" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/menu/add_menu_fragment.xml" value="1.175" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/menu/list_fragment_menu.xml" value="0.33" />
+        <entry key="..\:/dev/workspace/Android/ToDoApp/app/src/main/res/menu/update_fragment_manu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

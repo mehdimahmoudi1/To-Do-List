@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">ToDo App</string>
+  <string name="add_fragment">Add New ToDo</string>
+  <string name="list_fragment">ToDo App</string>
+  <string name="update_fragment">Edit ToDo</string>
+  <string name="title">Title</string>
+  <string name="description">Description</string>
+  <string name="search">search</string>
+  <string name="sortby">SortBy</string>
+  <string name="priority_high">High</string>
+  <string name="priority_low">Low</string>
+  <string name="priority_medium">Medium</string>
+  <string name="delete_all">DeleteAll</string>
+  <string name="add">add</string>
+  <string name="save">save</string>
+
+  <string-array name="priorites">
+    <item>High Priority</item>
+    <item>Medium Priority</item>
+    <item>Low Priority</item>
+  </string-array>
+</resources>

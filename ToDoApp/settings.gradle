@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+
+    }
+    buildscript {
+        dependencies {
+            def nav_version = "2.5.0-alpha03"
+            classpath("androidx.navigation:navigation-safe-args-gradle-plugin:$nav_version")
+        }
+    }
+}
+rootProject.name = "ToDo App"
+include ':app'
